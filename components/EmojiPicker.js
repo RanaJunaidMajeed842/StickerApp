@@ -16,6 +16,7 @@ function EmojiPicker({ isVisible, onClose, children }) {
       </View>
     </Modal>
   );
+  i;
 }
 const styles = StyleSheet.create({
   modalContent: {
